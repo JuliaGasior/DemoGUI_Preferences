@@ -15,7 +15,7 @@ using System.Windows.Shapes;
 namespace DemoGUI_Preferences
 {
     /// <summary>
-    /// Logika interakcji dla klasy Calendar.xaml
+    ///Interaction logic for Calendar.xaml
     /// </summary>
     public partial class Calendar : Window
     {
